@@ -1,6 +1,6 @@
 >###  Authors:
->>#### ADAKANOU Koffi Heritier
->>#### KUDAWOO kate
+>>#### [ADAKANOU Koffi Heritier](https://github.com/Heritier205)
+>>#### [KUDAWOO kate](https://github.com/katekudawoo)
 
 
 
