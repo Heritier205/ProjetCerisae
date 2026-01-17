@@ -59,8 +59,8 @@ Bash
 
 Développé avec passion par :
 
-    ADAKANOU Koffi Heritier - @Heritier205
+[ADAKANOU Koffi Heritier](https://github.com/Heritier205/)
 
-    KUDAWOO Kate
+[KUDAWOO Kate Bertrande Ya](https://github.com/katekudawoo/)
 
 Projet réalisé dans le cadre d'un apprentissage de la gestion de fichiers et de la rigueur algorithmique en langage C.
